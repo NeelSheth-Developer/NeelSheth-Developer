@@ -7,7 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/shethneel1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shethneel1" height="30" width="40" /></a>
+<a href="https://twitter.com/shethneel1" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="30" width="30" /></a>
+  <!-- New Gmail icon and link -->
+  <a href="mailto:shethneel2022@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Gmail" height="30" width="40" /></a>
+  <!-- Existing LinkedIn and CodeChef icons and links -->
   <a href="https://www.linkedin.com/in/neel-sheth-91b362262/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neel-sheth-91b362262/" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/coder_neel20" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/coder_neel20" height="30" width="40" /></a>
 </p>
