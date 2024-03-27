@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neel Sheth</h1>
 <h3 align="center">Deep Learning Enthusiast</h3><br>
 -🔭 I am currently pursuing a Bachelor's degree in Electronics and Communication Engineering at Nirma University. My passion lies in the dynamic fields of machine learning (ML) and deep learning (DL), with a keen focus on data science roles and creating impactful data visualization projects.
-
+<br>
+<br>
 -🌱 I am enthusiastic about leveraging Python for ML and DL projects, exploring innovative algorithms, and diving into insightful data analysis. My goal is to contribute to cutting-edge solutions that drive meaningful insights from complex data sets, making data-driven decisions more accessible and impactful. Currently, I am working on the Sentiment Analysis of Amazon Reviews Project Using Natural Language Processing (NLP).
 
 <h3 align="left">Connect with me:</h3>
