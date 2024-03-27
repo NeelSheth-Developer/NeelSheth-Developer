@@ -44,7 +44,7 @@
 <p align="left">
   My Resume:
   
-  <a href="https://drive.google.com/file/d/1Y8JWKJ0hlLo5MrC9pBklUcoGodk4Q2I7/view?usp=sharing" target="_blank"><img src="https://img.icons8.com/color/48/000000/resume.png" alt="Resume" height="30" width="40" /></a> <br>
+  <a href="https://drive.google.com/file/d/1fcI3M3LNjHK56YRtmBoya2BdwTDdAruC/view?usp=sharing" target="_blank"><img src="https://img.icons8.com/color/48/000000/resume.png" alt="Resume" height="30" width="40" /></a> <br>
   My Website:
   
   <a href="https://digital-cv-neel-sheth.streamlit.app/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Website" height="30" width="40" /></a> 
