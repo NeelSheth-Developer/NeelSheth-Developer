@@ -43,7 +43,7 @@
 <p align="left">
   My Resume:
   
-  <a href="https://drive.google.com/file/d/1rnC7ukV89kXiyY3AeTP09taxWSjwvuE9/view" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/resume.png" alt="Resume" height="30" width="40"/></a>
+  <a href="https://drive.google.com/file/d/1HVxQKpO0ciwsjlKdvaMcDCCwNY0zaPvp/view?usp=sharing"><img src="https://img.icons8.com/fluent/48/000000/resume.png" alt="Resume" height="30" width="40"/></a>
   
   My Website:
   
