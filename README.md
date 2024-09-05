@@ -5,6 +5,11 @@
 <br>
 -🌱 I am enthusiastic about leveraging Python for ML and DL projects, exploring innovative algorithms, and diving into insightful data analysis. My goal is to contribute to cutting-edge solutions that drive meaningful insights from complex data sets, making data-driven decisions more accessible and impactful. Currently, I am working on the Sentiment Analysis of Amazon Reviews Project Using Natural Language Processing (NLP).
 
+<h3 align="left">Profile Visitors:</h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=neelsheth-developer&label=Profile%20views&color=0e75b6&style=flat" alt="neelsheth-developer" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shethneel1" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="30" width="30" /></a>
